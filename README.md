@@ -57,4 +57,4 @@
 		```
 
 7. Your new dolphin key
-	Replace the '**totp.conf**' file with the new one inside your FlipperZero
+	- Replace the '**totp.conf**' file with the new one inside your FlipperZero
